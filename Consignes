@@ -3,18 +3,35 @@ Consignes :
 Maxence : 
 - energy quest
 - regeneration hubs
-- move units
 - condition regeneration
+- move units
+- condition move 
+
 
 Gayane :
-- calcul de portée 
-- calcul d'energie
+- calcul_energy
+- calcul_portee
+- transfer energy
+- condition tranfer
 
 Caroline : 
-- get instructions 
-- creation map
+- upgrade_units
+- condition upgrade
+- creation map (read_files = read_dico)
+- creation_units 
+- condition creation 
+- get_instruction
+- decode_instruction 
 
 Marie : 
-- creation map (read_files + show_board)
+- creation map  (show_board)
 - is game over 
+- fight units
+- condition fight 
+- read dico show 
 
+
+
+1e deadline vendredi 20 mars 2020 14h 
+2e deadline dimanche 
+3e deadline mercredi 25 mars 08h30
